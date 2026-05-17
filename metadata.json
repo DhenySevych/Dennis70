@@ -1,0 +1,6 @@
+{
+  "name": "Bellsel Imports",
+  "description": "Bellsel Imports specializes in sourcing and importing high quality products from trusted suppliers worldwide. We connect businesses with premium goods to meet their needs with efficient logistics and distribution solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
